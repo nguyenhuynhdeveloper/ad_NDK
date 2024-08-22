@@ -1,4 +1,4 @@
-package com.example.ad_ndk;
+package com.example.adndk;
 
 import android.content.Context;
 
